@@ -1,8 +1,8 @@
 js.spin
-*******
+=======
 
 Introduction
-============
+------------
 
 This library packages `spin.js`_ for `fanstatic`_.
 
