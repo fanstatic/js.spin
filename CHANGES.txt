@@ -1,10 +1,10 @@
 CHANGES
 =======
 
-1.3.1dev - unreleased
----------------------
+1.3.0-1 - 2013-05-03
+--------------------
 
--   No changes yet.
+-   Added missing dependency to the jquery_spin resource.
 
 1.3.0 - 2013-05-03
 ------------------

@@ -15,4 +15,4 @@ jquery_spin = Resource(
     library,
     'jquery.spin.js',
     minified='jquery.spin.min.js',
-    depends=[jquery, ])
+    depends=[jquery, spin, ])
