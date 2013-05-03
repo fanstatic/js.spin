@@ -1,10 +1,14 @@
 How to use?
-===========
-
+-----------
 
 You can import ``spin`` from ``js.spin`` and ``need`` it where you want
 these resources to be included on a page::
 
   >>> from js.spin import spin
   >>> spin.need()
+
+Or, if you prefer the jQuery plugin verstion of ``spin.js``::
+
+  >>> from js.spin import jquery_spin
+  >>> jquery_spin.need()
 
