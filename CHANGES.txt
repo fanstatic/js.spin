@@ -1,23 +1,24 @@
 CHANGES
 =======
 
-1.3.0-2dev - unreleased
------------------------
+2.0.2dev - unreleased
+---------------------
 
--   No changes.
+- Upgrade to 2.0.2.
+- Use bower for upstream updates.
 
 1.3.0-1 - 2013-05-03
 --------------------
 
--   Added missing dependency to the jquery_spin resource.
+- Added missing dependency to the jquery_spin resource.
 
 1.3.0 - 2013-05-03
 ------------------
 
--   Upgrade to 1.3.0.
--   Add jQuery version.
+- Upgrade to 1.3.0.
+- Add jQuery version.
 
 1.2.2
 -----
 
-- 	Initial release.
+- Initial release.
