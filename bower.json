@@ -1,0 +1,24 @@
+{
+  "name": "js.spin",
+  "version": "2.0.2",
+  "homepage": "https://github.com/disko/js.spin",
+  "authors": [
+    "Andreas Kaiser <disko@binary-punks.com>"
+  ],
+  "description": "Fanstatic packaging of spin.js",
+  "keywords": [
+    "fanstatic"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "spin.js": "~2.0.2"
+  }
+}
